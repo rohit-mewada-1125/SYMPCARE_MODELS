@@ -1,0 +1,4 @@
+CHECK THE COMPLETE PROJECT WHER THESE MODELS ARE WORKING
+
+
+https://sympcare.vercel.app/
