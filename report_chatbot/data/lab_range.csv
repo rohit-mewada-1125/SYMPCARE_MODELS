@@ -1,0 +1,1324 @@
+Test Name,Group,Normal_Min,Normal_Max,Unit
+"1,5-Anhydroglucitol, serum or plasma",Female,6.8,29.3,μg/mL
+"1,5-Anhydroglucitol, serum or plasma",male,10.7,32.0,μg/mL
+"17-Hydroxycorticosteroids (Porter-Silber), urine",Female,2.0,8.0,mg/
+"17-Hydroxycorticosteroids (Porter-Silber), urine",male,3.0,10.0,mg/
+"17-Hydroxyprogesterone, serum
+     Female, follicular
+     Female, luteal
+     Female, postmenopausal
+     Male (adult)",,80.0,80.0,ng/dL
+"17-Hydroxyprogesterone, serum
+     Female, follicular
+     Female, luteal
+     Female, postmenopausal
+     Male (adult)",,285.0,285.0,ng/dL
+"17-Hydroxyprogesterone, serum
+     Female, follicular
+     Female, luteal
+     Female, postmenopausal
+     Male (adult)",,51.0,51.0,ng/dL
+"17-Hydroxyprogesterone, serum
+     Female, follicular
+     Female, luteal
+     Female, postmenopausal
+     Male (adult)",,220.0,220.0,ng/dL
+"5-Hydroxyindoleacetic acid, urine",,2.0,9.0,mg/
+"5'-Nucleotidase, serum",,0.3,2.6,
+"6-Thioguanine, whole blood",,230.0,400.0,pmol/
+Absolute basophil count,,0.0,110.0,/μL
+Absolute eosinophil count,,0.0,330.0,/μL
+Absolute lymphocyte count,,1200.0,4950.0,/μL
+Absolute monocyte count,,0.0,660.0,/μL
+Absolute neutrophil count (ANC),,2000.0,8250.0,/μL
+"Acid phosphatase, serum
+     Total
+     Prostatic fraction",,0.5,2.0,
+"Acid phosphatase, serum
+     Total
+     Prostatic fraction",,0.1,0.4,unit/mL
+"ACTH, plasma",,10.0,60.0,pg/mL
+Activated partial thromboplastin time,,25.0,35.0,seconds
+ADAMTS13 activity,,60.0,60.0,%
+"Adrenocorticotropic hormone (ACTH), plasma",,10.0,60.0,pg/mL
+"Albumin, serum",,3.5,5.5,g/dL
+"Albumin, urine",,25.0,25.0,mg/
+"Albumin-to-creatinine ratio, urine",,30.0,30.0,mg/g
+"Aldolase, serum",,0.8,3.0,IU/mL
+"Aldosterone, plasma
+     Supine or seated
+     Standing
+ Low-sodium diet (supine)",,10.0,10.0,ng/dL
+"Aldosterone, plasma
+     Supine or seated
+     Standing
+ Low-sodium diet (supine)",,21.0,21.0,ng/dL
+"Aldosterone, plasma
+     Supine or seated
+     Standing
+ Low-sodium diet (supine)",,30.0,30.0,ng/dL
+"Aldosterone, urine",,5.0,19.0,μg/
+"Alkaline phosphatase, serum",,30.0,120.0,U/L
+"Alpha1-antitrypsin (AAT), serum",,150.0,350.0,mg/dL
+"Alpha2-antiplasmin activity, plasma",,75.0,75.0,%
+"Alpha-amino nitrogen, urine",,100.0,290.0,mg/
+"Alpha-fetoprotein, serum",,10.0,10.0,ng/mL
+"Amino acids, urine",,200.0,400.0,mg/
+"Aminotransferase, serum alanine (ALT, SGPT)",,10.0,40.0,U/L
+"Aminotransferase, serum aspartate (AST, SGOT)",,10.0,40.0,U/L
+"Ammonia, plasma",,40.0,70.0,μg/dL
+"Amylase, serum",,25.0,125.0,U/L
+"Amylase, urine",,1.0,17.0,U/hr
+"Angiotensin-converting enzyme, serum",,8.0,53.0,U/L
+"Anion gap, serum",,7.0,13.0,mEq/L
+"Antibodies to double-stranded DNA
+Anticardiolipin antibodies
+     IgG
+     IgM",,0.0,7.0,IU/mL
+"Antibodies to double-stranded DNA
+Anticardiolipin antibodies
+     IgG
+     IgM",,20.0,20.0,GPL
+"Antibodies to double-stranded DNA
+Anticardiolipin antibodies
+     IgG
+     IgM",,20.0,20.0,MPL
+Anti-cyclic citrullinated peptide antibodies,,20.0,20.0,units
+Antideoxyribonuclease B,,280.0,280.0,units
+"Anti-F-actin antibodies, serum",,1.0,1.0,
+Antihistone antibodies,,1.0,1.0,
+Anti-liver-kidney microsomal antibodies (anti-LKM),,1.0,1.0,
+Antimitochondrial antibodies,,1.0,1.0,
+Anti–myelin associated glycoprotein antibody,,1.0,1.0,
+Antimyeloperoxidase antibodies,,1.0,1.0,U
+Antinuclear antibodies,,1.0,1.0,
+"Anti-phospholipase A2 receptor (PLA2R) antibodies, 
+serum
+[ELISA]",,0.0,14.0,RU/mL
+"Anti-phospholipase A2 receptor (PLA2R) antibodies, 
+serum
+[ELISA]",,14.0,14.0,
+"Anti-phospholipase A2 receptor (PLA2R) antibodies, 
+serum
+[ELISA]",,20.0,20.0,RU/mL
+"Anti-RNP antibodies
+[by chemiluminescence method]",,0.0,20.0,CU
+"Anti-RNP antibodies
+[by multiplex flow immunoassay]",,0.0,1.0,AI
+"Anti-Scl-70 antibodies (topoisomerase 1 antibodies), IgG, 
+serum",,0.0,1.0,U
+"Anti-Scl-70 antibodies (topoisomerase 1 antibodies), IgG, 
+serum",,1.0,1.0,U
+Anti–smooth muscle antibodies,,1.0,1.0,
+"Anti-SSA/Ro & anti-SSB antibodies
+[by chemiluminescence method]",,0.0,20.0,CU
+"Anti-SSA/Ro & anti-SSB antibodies
+[by multiplex flow immunoassay]",,0.0,1.0,AI
+Antistreptolysin O titer,,200.0,200.0,Todd
+Antithrombin activity,,80.0,80.0,%
+Antithyroglobulin antibodies,,20.0,20.0,U/mL
+Antithyroid peroxidase antibodies,,2.0,2.0,U/mL
+"Apolipoprotein A-1, serum",,140.0,140.0,mg/dL
+"Apolipoprotein A-1, serum",,120.0,120.0,mg/dL
+"Apolipoprotein B, serum",,90.0,90.0,mg/dL
+"Apolipoprotein B, serum",,90.0,119.0,mg/dL
+"Apolipoprotein B, serum",,120.0,139.0,mg/dL
+"Apolipoprotein B, serum",,140.0,140.0,mg/dL
+"Arterial blood gas studies (patient
+breathing room air):
+     pH
+     PaCO2
+     PaO2
+     Bicarbonate
+     Oxygen saturation
+     Methemoglobin",,7.38,7.44,
+"Arterial blood gas studies (patient
+breathing room air):
+     pH
+     PaCO2
+     PaO2
+     Bicarbonate
+     Oxygen saturation
+     Methemoglobin",,3842.0,3842.0,mm
+"Arterial blood gas studies (patient
+breathing room air):
+     pH
+     PaCO2
+     PaO2
+     Bicarbonate
+     Oxygen saturation
+     Methemoglobin",,75.0,100.0,mm
+"Arterial blood gas studies (patient
+breathing room air):
+     pH
+     PaCO2
+     PaO2
+     Bicarbonate
+     Oxygen saturation
+     Methemoglobin",,23.0,26.0,mEq/L
+"Arterial blood gas studies (patient
+breathing room air):
+     pH
+     PaCO2
+     PaO2
+     Bicarbonate
+     Oxygen saturation
+     Methemoglobin",,95.0,95.0,%
+"Arterial blood gas studies (patient
+breathing room air):
+     pH
+     PaCO2
+     PaO2
+     Bicarbonate
+     Oxygen saturation
+     Methemoglobin",,0.5,0.5,%
+"Ascorbic acid (vitamin C), blood",,0.4,1.5,mg/dL
+"Ascorbic acid, leukocyte",,16.5,16.5,
+"Beta-human chorionic gonadotropin (beta-hCG), serum",,1.0,1.0,U/L
+"Beta-human chorionic gonadotropin (beta-hCG), serum",,7.0,7.0,U/L
+"Beta-human chorionic gonadotropin (beta-hCG), serum",,1.4,1.4,U/L
+"Beta-human chorionic gonadotropin (beta-hCG), urine",,2.0,2.0,mIU/
+"Beta2-glycoprotein I antibodies:
+     IgG
+     IgM",,21.0,21.0,SGU
+"Beta2-glycoprotein I antibodies:
+     IgG
+     IgM",,21.0,21.0,SMU
+"Beta-hydroxybutyrate, serum",,0.4,0.4,mmol/L
+"Beta2-microglobulin, serum",,0.54,2.75,mg/L
+"Bicarbonate, serum",,23.0,28.0,mEq/L
+"Bilirubin, serum 
+     Total
+     Direct
+     Indirect",,0.3,1.0,mg/dL
+"Bilirubin, serum 
+     Total
+     Direct
+     Indirect",,0.1,0.3,mg/dL
+"Bilirubin, serum 
+     Total
+     Direct
+     Indirect",,0.2,0.7,mg/dL
+Bleeding time (template),,8.0,8.0,minutes
+"Blood urea nitrogen (BUN), serum or plasma",,8.0,20.0,mg/dL
+"Bone-specific alkaline phosphatase, serum",,4.5,16.9,µg/L
+"Bone-specific alkaline phosphatase, serum",postmenopausal,7.0,22.4,µg/L
+"Bone-specific alkaline phosphatase, serum",Male,25.0,25.0,years
+"B-type natriuretic peptide, plasma",,100.0,100.0,pg/mL
+"C peptide, serum",,0.8,3.1,ng/mL
+"Calcitonin, serum",,5.0,5.0,pg/mL
+"Calcitonin, serum",,10.0,10.0,pg/mL
+"Calcium, ionized, serum",,1.12,1.23,mmol/L
+"Calcium, serum",,8.6,10.2,mg/dL
+"Calcium, urine",,250.0,250.0,mg/
+"Calcium, urine",,300.0,300.0,mg/
+"Carbohydrate antigens, serum
+      CA 19-9
+      CA 27-29
+      CA 125",,0.0,37.0,U/mL
+"Carbohydrate antigens, serum
+      CA 19-9
+      CA 27-29
+      CA 125",,38.0,38.0,U/mL
+"Carbohydrate antigens, serum
+      CA 19-9
+      CA 27-29
+      CA 125",,35.0,35.0,U/mL
+"Carbon dioxide, serum",,23.0,30.0,mEq/L
+"Carboxyhemoglobin, blood",,5.0,5.0,%
+"Carcinoembryonic antigen, plasma",,2.5,2.5,ng/mL
+"Carotene, serum",,75.0,300.0,μg/dL
+"Catecholamines, plasma
+      Dopamine
+      Epinephrine
+           Supine
+           Standing
+      Norepinephrine
+           Supine
+           Standing",,30.0,30.0,pg/mL
+"Catecholamines, plasma
+      Dopamine
+      Epinephrine
+           Supine
+           Standing
+      Norepinephrine
+           Supine
+           Standing",,50.0,50.0,pg/mL
+"Catecholamines, plasma
+      Dopamine
+      Epinephrine
+           Supine
+           Standing
+      Norepinephrine
+           Supine
+           Standing",,95.0,95.0,pg/mL
+"Catecholamines, plasma
+      Dopamine
+      Epinephrine
+           Supine
+           Standing
+      Norepinephrine
+           Supine
+           Standing",,112.0,658.0,pg/mL
+"Catecholamines, plasma
+      Dopamine
+      Epinephrine
+           Supine
+           Standing
+      Norepinephrine
+           Supine
+           Standing",,217.0,1109.0,pg/mL
+"Catecholamines, urine
+       Dopamine
+      Epinephrine
+      Norepinephrine
+      Total",,65.0,400.0,μg/
+"Catecholamines, urine
+       Dopamine
+      Epinephrine
+      Norepinephrine
+      Total",,2.0,24.0,μg/
+"Catecholamines, urine
+       Dopamine
+      Epinephrine
+      Norepinephrine
+      Total",,15.0,100.0,μg/
+"Catecholamines, urine
+       Dopamine
+      Epinephrine
+      Norepinephrine
+      Total",,26.0,121.0,μg/
+CD4 T-lymphocyte count,,530.0,1570.0,/μL
+"Cell count, CSF:
+ Leukocytes (WBCs)
+ Erythrocytes (RBCs)",,0.0,5.0,cells/μL
+"Cell count, CSF:
+ Leukocytes (WBCs)
+ Erythrocytes (RBCs)",,0.0,0.0,/µL
+"Ceruloplasmin, serum (plasma)",,25.0,43.0,mg/dL
+"Chloride, serum",,98.0,106.0,mEq/L
+"Chloride, urine
+      Random (""spot"")
+24-hour measurement",,24.0,24.0,hr
+"Cholesterol, serum
+      Total
+          Desirable
+          Borderline-high
+          High
+ High-density lipoprotein
+          Low
+ Low-density lipoprotein
+          Optimal
+          Near-optimal
+          Borderline-high
+          High
+          Very high",,200.0,200.0,mg/dL
+"Cholesterol, serum
+      Total
+          Desirable
+          Borderline-high
+          High
+ High-density lipoprotein
+          Low
+ Low-density lipoprotein
+          Optimal
+          Near-optimal
+          Borderline-high
+          High
+          Very high",,200.0,239.0,mg/dL
+"Cholesterol, serum
+      Total
+          Desirable
+          Borderline-high
+          High
+ High-density lipoprotein
+          Low
+ Low-density lipoprotein
+          Optimal
+          Near-optimal
+          Borderline-high
+          High
+          Very high",,239.0,239.0,mg/dL
+"Cholesterol, serum
+      Total
+          Desirable
+          Borderline-high
+          High
+ High-density lipoprotein
+          Low
+ Low-density lipoprotein
+          Optimal
+          Near-optimal
+          Borderline-high
+          High
+          Very high",,50.0,50.0,mg/dL
+"Cholesterol, serum
+      Total
+          Desirable
+          Borderline-high
+          High
+ High-density lipoprotein
+          Low
+ Low-density lipoprotein
+          Optimal
+          Near-optimal
+          Borderline-high
+          High
+          Very high",,40.0,40.0,mg/dL
+"Cholesterol, serum
+      Total
+          Desirable
+          Borderline-high
+          High
+ High-density lipoprotein
+          Low
+ Low-density lipoprotein
+          Optimal
+          Near-optimal
+          Borderline-high
+          High
+          Very high",,100.0,100.0,mg/dL
+"Cholesterol, serum
+      Total
+          Desirable
+          Borderline-high
+          High
+ High-density lipoprotein
+          Low
+ Low-density lipoprotein
+          Optimal
+          Near-optimal
+          Borderline-high
+          High
+          Very high",,100.0,129.0,mg/dL
+"Cholesterol, serum
+      Total
+          Desirable
+          Borderline-high
+          High
+ High-density lipoprotein
+          Low
+ Low-density lipoprotein
+          Optimal
+          Near-optimal
+          Borderline-high
+          High
+          Very high",,130.0,159.0,mg/dL
+"Cholesterol, serum
+      Total
+          Desirable
+          Borderline-high
+          High
+ High-density lipoprotein
+          Low
+ Low-density lipoprotein
+          Optimal
+          Near-optimal
+          Borderline-high
+          High
+          Very high",,160.0,189.0,mg/dL
+"Cholesterol, serum
+      Total
+          Desirable
+          Borderline-high
+          High
+ High-density lipoprotein
+          Low
+ Low-density lipoprotein
+          Optimal
+          Near-optimal
+          Borderline-high
+          High
+          Very high",,189.0,189.0,mg/dL
+"Cholinesterase, serum (pseudocholinesterase)",,0.5,0.5,pH
+Packed cells,,0.7,0.7,pH
+"Chromogranin A, serum",,93.0,93.0,ng/mL
+"Citrate, urine",,250.0,1000.0,mg/
+"Coagulation factors, plasma 
+     Factor I (fibrinogen)
+     Factor II (prothrombin)
+     Factor V (accelerator globulin)
+     Factor VII (proconvertin)
+     Factor VIII (antihemophilic globulin)
+     Factor IX (plasma thromboplastin component)
+     Factor X (Stuart factor)
+     Factor XI (plasma thromboplastin antecedent)
+     Factor XII (Hageman factor)
+ Factor XIII",,200.0,400.0,mg/dL
+"Coagulation factors, plasma 
+     Factor I (fibrinogen)
+     Factor II (prothrombin)
+     Factor V (accelerator globulin)
+     Factor VII (proconvertin)
+     Factor VIII (antihemophilic globulin)
+     Factor IX (plasma thromboplastin component)
+     Factor X (Stuart factor)
+     Factor XI (plasma thromboplastin antecedent)
+     Factor XII (Hageman factor)
+ Factor XIII",,60.0,60.0,%
+"Coagulation factors, plasma 
+     Factor I (fibrinogen)
+     Factor II (prothrombin)
+     Factor V (accelerator globulin)
+     Factor VII (proconvertin)
+     Factor VIII (antihemophilic globulin)
+     Factor IX (plasma thromboplastin component)
+     Factor X (Stuart factor)
+     Factor XI (plasma thromboplastin antecedent)
+     Factor XII (Hageman factor)
+ Factor XIII",,60.0,60.0,%
+"Coagulation factors, plasma 
+     Factor I (fibrinogen)
+     Factor II (prothrombin)
+     Factor V (accelerator globulin)
+     Factor VII (proconvertin)
+     Factor VIII (antihemophilic globulin)
+     Factor IX (plasma thromboplastin component)
+     Factor X (Stuart factor)
+     Factor XI (plasma thromboplastin antecedent)
+     Factor XII (Hageman factor)
+ Factor XIII",,60.0,60.0,%
+"Coagulation factors, plasma 
+     Factor I (fibrinogen)
+     Factor II (prothrombin)
+     Factor V (accelerator globulin)
+     Factor VII (proconvertin)
+     Factor VIII (antihemophilic globulin)
+     Factor IX (plasma thromboplastin component)
+     Factor X (Stuart factor)
+     Factor XI (plasma thromboplastin antecedent)
+     Factor XII (Hageman factor)
+ Factor XIII",,50.0,50.0,%
+"Coagulation factors, plasma 
+     Factor I (fibrinogen)
+     Factor II (prothrombin)
+     Factor V (accelerator globulin)
+     Factor VII (proconvertin)
+     Factor VIII (antihemophilic globulin)
+     Factor IX (plasma thromboplastin component)
+     Factor X (Stuart factor)
+     Factor XI (plasma thromboplastin antecedent)
+     Factor XII (Hageman factor)
+ Factor XIII",,60.0,60.0,%
+"Coagulation factors, plasma 
+     Factor I (fibrinogen)
+     Factor II (prothrombin)
+     Factor V (accelerator globulin)
+     Factor VII (proconvertin)
+     Factor VIII (antihemophilic globulin)
+     Factor IX (plasma thromboplastin component)
+     Factor X (Stuart factor)
+     Factor XI (plasma thromboplastin antecedent)
+     Factor XII (Hageman factor)
+ Factor XIII",,60.0,60.0,%
+"Coagulation factors, plasma 
+     Factor I (fibrinogen)
+     Factor II (prothrombin)
+     Factor V (accelerator globulin)
+     Factor VII (proconvertin)
+     Factor VIII (antihemophilic globulin)
+     Factor IX (plasma thromboplastin component)
+     Factor X (Stuart factor)
+     Factor XI (plasma thromboplastin antecedent)
+     Factor XII (Hageman factor)
+ Factor XIII",,60.0,60.0,%
+"Coagulation factors, plasma 
+     Factor I (fibrinogen)
+     Factor II (prothrombin)
+     Factor V (accelerator globulin)
+     Factor VII (proconvertin)
+     Factor VIII (antihemophilic globulin)
+     Factor IX (plasma thromboplastin component)
+     Factor X (Stuart factor)
+     Factor XI (plasma thromboplastin antecedent)
+     Factor XII (Hageman factor)
+ Factor XIII",,60.0,60.0,%
+"Coagulation factors, plasma 
+     Factor I (fibrinogen)
+     Factor II (prothrombin)
+     Factor V (accelerator globulin)
+     Factor VII (proconvertin)
+     Factor VIII (antihemophilic globulin)
+     Factor IX (plasma thromboplastin component)
+     Factor X (Stuart factor)
+     Factor XI (plasma thromboplastin antecedent)
+     Factor XII (Hageman factor)
+ Factor XIII",,57.0,57.0,%
+Cold agglutinin titer,,1.0,1.0,
+"Complement components, serum
+     C3
+     C4
+     CH50",,100.0,233.0,mg/dL
+"Complement components, serum
+     C3
+     C4
+     CH50",,14.0,48.0,mg/dL
+"Complement components, serum
+     C3
+     C4
+     CH50",,110.0,190.0,units/mL
+"Copper, serum",,100.0,200.0,μg/dL
+"Copper, urine",,0.0,100.0,μg/
+"Coproporphyrin, urine",,50.0,250.0,μg/
+"Cortisol, free, urine",,4.0,50.0,μg/
+"Cortisol, plasma
+     8 AM
+     4 PM
+     1 hour after  cosyntropin 
+ Overnight suppression test (1-mg)
+ Overnight suppression test (8-mg)",,5.0,25.0,μg/dL
+"Cortisol, plasma
+     8 AM
+     4 PM
+     1 hour after  cosyntropin 
+ Overnight suppression test (1-mg)
+ Overnight suppression test (8-mg)",,10.0,10.0,μg/dL
+"Cortisol, plasma
+     8 AM
+     4 PM
+     1 hour after  cosyntropin 
+ Overnight suppression test (1-mg)
+ Overnight suppression test (8-mg)",,18.0,18.0,μg/dL
+"Cortisol, plasma
+     8 AM
+     4 PM
+     1 hour after  cosyntropin 
+ Overnight suppression test (1-mg)
+ Overnight suppression test (8-mg)",,1.8,1.8,μg/dL
+"Cortisol, plasma
+     8 AM
+     4 PM
+     1 hour after  cosyntropin 
+ Overnight suppression test (1-mg)
+ Overnight suppression test (8-mg)",,50.0,50.0,%
+"Cortisol, saliva, 11 PM – midnight",,0.09,0.09,µg/dL
+"C-reactive protein (high sensitivity), serum",,1.0,1.0,mg/L
+"C-reactive protein (high sensitivity), serum",,1.0,3.0,mg/L
+"C-reactive protein (high sensitivity), serum",,3.0,3.0,mg/L
+"Creatine kinase, serum
+     Total
+     MB isoenzymes",Female,30.0,135.0,U/L
+"Creatine kinase, serum
+     Total
+     MB isoenzymes",male,55.0,170.0,U/L
+"Creatine kinase, serum
+     Total
+     MB isoenzymes",,5.0,5.0,%
+"Creatine, urine",Female,0.0,100.0,mg/
+"Creatine, urine",male,0.0,40.0,mg/
+"Creatinine clearance, urine",,90.0,140.0,mL/min/
+"Creatinine, serum",Female,0.5,1.1,mg/dL
+"Creatinine, serum",male,0.7,1.3,mg/dL
+"Creatinine, urine
+     Random (""spot"")
+24-hour measurement",,15.0,25.0,mg/kg
+"D-dimer, plasma",,0.5,0.5,μg/mL
+"Dehydroepiandrosterone sulfate (DHEA-S), serum",Female,44.0,332.0,μg/dL
+"Dehydroepiandrosterone sulfate (DHEA-S), serum",male,89.0,457.0,μg/dL
+"Delta-aminolevulinic acid, serum",,20.0,20.0,μg/dL
+"Dihydrotestosterone, serum",male,25.0,80.0,ng/dL
+"Dopamine, plasma",,30.0,30.0,pg/mL
+"Dopamine, urine",,65.0,400.0,μg/
+"D-Xylose absorption
+(after ingestion of 25 g of D-xylose)
+     Serum
+     Urinary excretion",,25.0,40.0,mg/dL
+"D-Xylose absorption
+(after ingestion of 25 g of D-xylose)
+     Serum
+     Urinary excretion",,4.5,7.5,g
+"Electrolytes, serum
+     Sodium
+     Potassium
+     Chloride
+     Bicarbonate",,136.0,145.0,mEq/L
+"Electrolytes, serum
+     Sodium
+     Potassium
+     Chloride
+     Bicarbonate",,3.5,5.0,mEq/L
+"Electrolytes, serum
+     Sodium
+     Potassium
+     Chloride
+     Bicarbonate",,98.0,106.0,mEq/L
+"Electrolytes, serum
+     Sodium
+     Potassium
+     Chloride
+     Bicarbonate",,23.0,28.0,mEq/L
+"Epinephrine, plasma
+     Supine
+     Standing",,110.0,110.0,pg/mL
+"Epinephrine, plasma
+     Supine
+     Standing",,140.0,140.0,pg/mL
+"Epinephrine, urine",,20.0,20.0,μg/
+Erythrocyte count,,4.2,5.9,million/μL
+Erythrocyte sedimentation rate (Westergren),Female,0.0,20.0,mm/hr
+Erythrocyte sedimentation rate (Westergren),male,0.0,15.0,mm/hr
+Erythrocyte survival rate (51Cr),,28.0,28.0,days
+"Erythropoietin, serum",,4.0,26.0,mU/mL
+"Estradiol, serum
+     Female, follicular
+          Mid-cycle peak
+          Luteal
+          Postmenopausal
+     Male",,10.0,180.0,pg/mL
+"Estradiol, serum
+     Female, follicular
+          Mid-cycle peak
+          Luteal
+          Postmenopausal
+     Male",,100.0,300.0,pg/mL
+"Estradiol, serum
+     Female, follicular
+          Mid-cycle peak
+          Luteal
+          Postmenopausal
+     Male",,40.0,200.0,pg/mL
+"Estradiol, serum
+     Female, follicular
+          Mid-cycle peak
+          Luteal
+          Postmenopausal
+     Male",,10.0,10.0,pg/mL
+"Estradiol, serum
+     Female, follicular
+          Mid-cycle peak
+          Luteal
+          Postmenopausal
+     Male",,20.0,50.0,pg/mL
+"Estriol, urine",,12.0,12.0,mg/
+Estrogen receptor protein,,10.0,10.0,fmol/mg
+"Estrone, serum",,10.0,60.0,pg/mL
+"Ethanol, blood
+     Coma level
+     Intoxication",,0.005,0.005,%
+"Ethanol, blood
+     Coma level
+     Intoxication",,0.5,0.5,%
+"Ethanol, blood
+     Coma level
+     Intoxication",,0.08,0.08,%
+Euglobulin clot lysis time,,2.0,4.0,hours
+"Factor XIII, B subunit, plasma",,60.0,130.0,U/dL
+Fecal pH,,7.0,7.5,
+Fecal weight,,250.0,250.0,g/
+"Ferritin, serum",Female,24.0,307.0,ng/mL
+"Ferritin, serum",male,24.0,336.0,ng/mL
+Fibrin(ogen) degradation products,,10.0,10.0,μg/mL
+"Fibrinogen, plasma",,200.0,400.0,mg/dL
+"Fibroblast growth factor-23, serum",,30.0,80.0,RU/mL
+"Folate, red cell",,150.0,450.0,ng/mL
+"Folate, serum",,1.8,9.0,ng/mL
+"Follicle-stimulating hormone, serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2
+     Children, Tanner stages 3, 4, 5",,2.0,9.0,mIU/mL
+"Follicle-stimulating hormone, serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2
+     Children, Tanner stages 3, 4, 5",,4.0,22.0,mIU/mL
+"Follicle-stimulating hormone, serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2
+     Children, Tanner stages 3, 4, 5",,30.0,30.0,mIU/mL
+"Follicle-stimulating hormone, serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2
+     Children, Tanner stages 3, 4, 5",,1.0,7.0,mIU/mL
+"Follicle-stimulating hormone, serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2
+     Children, Tanner stages 3, 4, 5",,0.5,8.0,mIU/mL
+"Follicle-stimulating hormone, serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2
+     Children, Tanner stages 3, 4, 5",,1.0,12.0,mIU/mL
+"Free kappa light chain, serum",,3.3,19.4,mg/L
+"Free kappa-to-free lambda light chain ratio, serum",,0.26,1.65,
+"Free lambda light chain, serum",,5.7,26.3,mg/L
+"Gamma globulin, CSF",,6.1,8.3,mg/dL
+"(gamma-glutamyl transpeptidase), serum",Female,8.0,40.0,U/L
+"(gamma-glutamyl transpeptidase), serum",male,9.0,50.0,U/L
+"Gastrin, serum",,100.0,100.0,pg/mL
+"Glucose, CSF",,50.0,75.0,mg/dL
+"Glucose, plasma (fasting)",,70.0,99.0,mg/dL
+"Glucose-6-phosphate dehydrogenase, blood",,5.0,15.0,units/g
+"Glycoprotein α-subunit, serum",,1.0,1.0,ng/mL
+"Growth hormone, serum
+     At rest
+     Response to provocative stimuli",,5.0,5.0,ng/mL
+"Growth hormone, serum
+     At rest
+     Response to provocative stimuli",,7.0,7.0,ng/mL
+"Haptoglobin, serum",,83.0,267.0,mg/dL
+"Hematocrit, blood",Female,37.0,37.0,%
+"Hematocrit, blood",male,42.0,42.0,%
+Hemoglobin A1C,,4.0,4.0,%
+"Hemoglobin, blood",Female,12.0,16.0,g/dL
+"Hemoglobin, blood",male,14.0,18.0,g/dL
+"Hemoglobin fractionation
+     Hb A
+     Hb A2
+     Hb F",,96.0,96.0,%
+"Hemoglobin fractionation
+     Hb A
+     Hb A2
+     Hb F",,1.5,1.5,%
+"Hemoglobin fractionation
+     Hb A
+     Hb A2
+     Hb F",,1.0,1.0,%
+"Hemoglobin, plasma",,5.0,5.0,mg/dL
+"Heparin–anti-factor Xa assay, plasma",,0.3,0.7,IU/mL
+"Heparin–platelet factor 4 antibody, serum",,0.4,0.4,optical
+Hepatic copper,,25.0,40.0,μg/g
+Hepatic iron index,,1.0,1.0,
+"Histamine excretion, urine",,20.0,50.0,μg/
+"Homocysteine, plasma",,5.0,15.0,μmol/L
+"β-Human chorionic gonadotropin (β-hCG), serum",,1.0,1.0,U/L
+"β-Human chorionic gonadotropin (β-hCG), serum",,7.0,7.0,U/L
+"β-Human chorionic gonadotropin (β-hCG), serum",,1.4,1.4,U/L
+"β-Human chorionic gonadotropin (β-hCG), urine",,2.0,2.0,mIU/
+"Hydroxyproline, urine",,10.0,30.0,mg/sq
+"Immune complexes, serum",,0.0,50.0,μg/dL
+"Immunoglobulins, serum
+     IgA
+     IgE
+     IgG
+     IgM",,90.0,325.0,mg/dL
+"Immunoglobulins, serum
+     IgA
+     IgE
+     IgG
+     IgM",,380.0,380.0,IU/mL
+"Immunoglobulins, serum
+     IgA
+     IgE
+     IgG
+     IgM",,800.0,1500.0,mg/dL
+"Immunoglobulins, serum
+     IgA
+     IgE
+     IgG
+     IgM",,45.0,150.0,mg/dL
+"Immunoglobulin free light chains, serum
+    Kappa
+    Lambda
+ Kappa-to-lambda ratio",,3.3,19.4,mg/L
+"Immunoglobulin free light chains, serum
+    Kappa
+    Lambda
+ Kappa-to-lambda ratio",,5.7,26.3,mg/L
+"Immunoglobulin free light chains, serum
+    Kappa
+    Lambda
+ Kappa-to-lambda ratio",,0.26,1.65,
+"Insulin, serum (fasting)",,20.0,20.0,μU/mL
+"Insulin-like growth factor 1 (IGF-1)
+     (somatomedin-C), serum
+     Ages 16–24
+     Ages 25–39
+     Ages 40–54
+     Ages 55 and older",,182.0,780.0,ng/mL
+"Insulin-like growth factor 1 (IGF-1)
+     (somatomedin-C), serum
+     Ages 16–24
+     Ages 25–39
+     Ages 40–54
+     Ages 55 and older",,114.0,492.0,ng/mL
+"Insulin-like growth factor 1 (IGF-1)
+     (somatomedin-C), serum
+     Ages 16–24
+     Ages 25–39
+     Ages 40–54
+     Ages 55 and older",,90.0,360.0,ng/mL
+"Insulin-like growth factor 1 (IGF-1)
+     (somatomedin-C), serum
+     Ages 16–24
+     Ages 25–39
+     Ages 40–54
+     Ages 55 and older",,71.0,290.0,ng/mL
+"Iron, serum",,50.0,150.0,μg/dL
+"Iron-binding capacity, serum (total)",,250.0,310.0,μg/dL
+"Lactate dehydrogenase, serum",,80.0,225.0,U/L
+"Lactate, arterial blood",,1.3,1.3,mmol/L
+"Lactate, serum or plasma",,0.7,2.1,mmol/L
+"Lactate, venous blood",,0.7,1.8,mEq/L
+"Lactate, venous blood",,6.0,16.0,mg/dL
+"Lactic acid, serum",,6.0,19.0,mg/dL
+"Lactose tolerance test, GI",,15.0,15.0,mg/dL
+"Lead, blood",,0.0,5.0,μg/dL
+"Leukocyte count
+     Segmented neutrophils
+     Band forms
+     Lymphocytes
+     Monocytes
+     Basophils
+     Eosinophils",,4000.0,11.0,
+"Leukocyte count
+     Segmented neutrophils
+     Band forms
+     Lymphocytes
+     Monocytes
+     Basophils
+     Eosinophils",,50.0,50.0,%
+"Leukocyte count
+     Segmented neutrophils
+     Band forms
+     Lymphocytes
+     Monocytes
+     Basophils
+     Eosinophils",,0.0,0.0,%
+"Leukocyte count
+     Segmented neutrophils
+     Band forms
+     Lymphocytes
+     Monocytes
+     Basophils
+     Eosinophils",,30.0,30.0,%
+"Leukocyte count
+     Segmented neutrophils
+     Band forms
+     Lymphocytes
+     Monocytes
+     Basophils
+     Eosinophils",,0.0,0.0,%
+"Leukocyte count
+     Segmented neutrophils
+     Band forms
+     Lymphocytes
+     Monocytes
+     Basophils
+     Eosinophils",,0.0,0.0,%
+"Leukocyte count
+     Segmented neutrophils
+     Band forms
+     Lymphocytes
+     Monocytes
+     Basophils
+     Eosinophils",,0.0,0.0,%
+"Lipase, serum",,10.0,140.0,U/L
+"Lipoprotein(a), serum",,30.0,30.0,mg/dL
+"Luteinizing hormone (LH), serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2, 3 
+     Children, Tanner stages 4, 5",,1.0,12.0,mIU/mL
+"Luteinizing hormone (LH), serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2, 3 
+     Children, Tanner stages 4, 5",,9.0,80.0,mIU/mL
+"Luteinizing hormone (LH), serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2, 3 
+     Children, Tanner stages 4, 5",,30.0,30.0,mIU/mL
+"Luteinizing hormone (LH), serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2, 3 
+     Children, Tanner stages 4, 5",,2.0,9.0,mIU/mL
+"Luteinizing hormone (LH), serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2, 3 
+     Children, Tanner stages 4, 5",,9.0,9.0,mIU/mL
+"Luteinizing hormone (LH), serum
+ Female, follicular/luteal
+     Female, mid-cycle peak
+     Female, postmenopausal
+     Male (adult)
+     Children, Tanner stages 1, 2, 3 
+     Children, Tanner stages 4, 5",,1.0,15.0,mIU/mL
+"CD56""",,900.0,3245.0,/μL
+"CD56""",,530.0,1570.0,/μL
+"CD56""",,430.0,1060.0,/μL
+"CD56""",,208.0,590.0,/μL
+"CD56""",,40.0,500.0,/µL
+"Magnesium, serum",,1.6,2.6,mg/dL
+"Magnesium, urine",,14.0,290.0,mg/
+Mean corpuscular hemoglobin,,28.0,32.0,pg
+Mean corpuscular hemoglobin concentration,,33.0,36.0,g/dL
+Mean corpuscular volume,,80.0,98.0,fL
+Mean platelet volume,,7.0,9.0,fL
+"Metanephrines, fractionated, plasma 
+   Metanephrine
+   Normetanephrine",,0.5,0.5,nmol/L
+"Metanephrines, fractionated, plasma 
+   Metanephrine
+   Normetanephrine",,0.9,0.9,nmol/L
+"Metanephrines, fractionated, 24-hour urine
+   Metanephrine
+   Normetanephrine",,400.0,400.0,µg/
+"Metanephrines, fractionated, 24-hour urine
+   Metanephrine
+   Normetanephrine",,900.0,900.0,µg/
+"Methylmalonic acid, serum",,0.0,0.4,µmol/L
+"Myoglobin, serum",,100.0,100.0,μg/L
+"Norepinephrine, plasma
+     Supine
+     Standing",,70.0,750.0,pg/mL
+"Norepinephrine, plasma
+     Supine
+     Standing",,200.0,1700.0,pg/mL
+"Norepinephrine, urine",,0.0,100.0,μg/
+"Normetanephrine, fractionated, plasma",,0.9,0.9,nmol/L
+"Normetanephrine, fractionated, 24-hour urine",,900.0,900.0,µg/
+"N -telopeptide, urine",Female,11.0,48.0,nmol
+"N -telopeptide, urine",male,7.0,68.0,nmol
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,60.0,60.0,mL/min/
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,18.0,49.0,years
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,300.0,300.0,pg/mL
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,450.0,450.0,pg/mL
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,50.0,75.0,years
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,300.0,300.0,pg/mL
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,900.0,900.0,pg/mL
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,75.0,75.0,years
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,300.0,300.0,pg/mL
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,1800.0,1800.0,pg/mL
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,0.0,60.0,mL/min/
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,18.0,18.0,years
+"N -terminal-pro-B-type natriuretic peptide (NT-pro-BNP), 
+serum or plasma",,1200.0,1200.0,pg/mL
+"Osmolality, serum",,275.0,295.0,mOsm/kg
+"Osmolality, urine",,38.0,1400.0,mOsm/kg
+Osmotic fragility of erythrocytes,,0.5,0.5,%
+Osmotic fragility of erythrocytes,,0.3,0.3,%
+"Osteocalcin, serum",Female,7.2,27.9,ng/mL
+"Osteocalcin, serum",male,11.3,35.4,ng/mL
+"Oxalate, urine",,40.0,40.0,mg/
+Oxygen consumption,,225.0,275.0,mL/min
+"Oxygen saturation, arterial blood",,95.0,95.0,%
+"Parathyroid hormone, serum
+     C -terminal 
+     Intact
+ Intact (dialysis patients only)",,150.0,350.0,pg/mL
+"Parathyroid hormone, serum
+     C -terminal 
+     Intact
+ Intact (dialysis patients only)",,10.0,65.0,pg/mL
+"Parathyroid hormone, serum
+     C -terminal 
+     Intact
+ Intact (dialysis patients only)",,130.0,585.0,pg/mL
+Partial thromboplastin time (activated),,25.0,35.0,seconds
+"pH, urine",,4.5,8.0,
+"Phenolsulfonphthalein, urine",,25.0,25.0,%
+"Phenolsulfonphthalein, urine",,40.0,40.0,%
+"Phenolsulfonphthalein, urine",,60.0,60.0,%
+"Phosphatase (acid), serum
+     Total
+     Prostatic fraction",,0.5,2.0,
+"Phosphatase (acid), serum
+     Total
+     Prostatic fraction",,0.1,0.4,unit/mL
+"Phosphatase (alkaline), serum",,30.0,120.0,U/L
+"Phospholipids, serum (total)",,200.0,300.0,mg/dL
+"Phosphorus, serum",,3.0,4.5,mg/dL
+"Phosphorus, urine",,500.0,1200.0,mg/
+Platelet count,,150.0,150.0,
+"Platelet function analysis (PFA-100):
+ Collagen–epinephrine closure time
+   Collagen–ADP closure time",,60.0,143.0,seconds
+"Platelet function analysis (PFA-100):
+ Collagen–epinephrine closure time
+   Collagen–ADP closure time",,58.0,123.0,seconds
+Platelet survival rate (51Cr),,10.0,10.0,days
+"Potassium, serum",,3.5,5.0,mEq/L
+"Potassium, urine
+     Random (""spot"")
+24-hour measurement",,24.0,24.0,hr
+"Prealbumin, serum",,16.0,30.0,mg/dL
+"Pregnanetriol, urine",,0.2,3.5,mg/
+"Pressure (opening) [initial], CSF",,70.0,180.0,mm
+"Pressure (opening) [initial], CSF",,7.0,18.0,cm
+"Procalcitonin, serum",,0.1,0.1,ng/mL
+"Progesterone, serum
+     Female, follicular
+     Female, luteal
+     Male (adult)",,0.02,0.9,ng/mL
+"Progesterone, serum
+     Female, follicular
+     Female, luteal
+     Male (adult)",,2.0,30.0,ng/mL
+"Progesterone, serum
+     Female, follicular
+     Female, luteal
+     Male (adult)",,0.12,0.3,ng/mL
+"Proinsulin, serum",,3.0,20.0,pmol/L
+"Prolactin, serum",,20.0,20.0,ng/mL
+"Protein C activity, plasma",,65.0,65.0,%
+"Protein C antigen, plasma",,70.0,70.0,%
+"Protein catabolic rate, urine",,1.0,1.2,g/kg/
+"Protein S activity, plasma",,57.0,57.0,%
+"Protein S antigen, plasma
+  Total
+  Free",,60.0,60.0,%
+"Protein S antigen, plasma
+  Total
+  Free",,60.0,60.0,%
+"Protein, urine
+     Random (""spot"")
+24-hour measurement",,100.0,100.0,mg/
+"Proteins, CSF total",,15.0,45.0,mg/dL
+"Proteins, serum
+      Total
+      Albumin",,5.5,9.0,g/dL
+"Proteins, serum
+      Total
+      Albumin",,3.5,5.5,g/dL
+"Gamma""",,2.0,3.5,g/dL
+"Gamma""",,0.2,0.4,g/dL
+"Gamma""",,0.5,0.9,g/dL
+"Gamma""",,0.6,1.1,g/dL
+"Gamma""",,0.7,1.7,g/dL
+"Protein-to-creatinine ratio, urine",,0.2,0.2,mg/mg
+"Prothrombin time, plasma",,11.0,13.0,seconds
+"Pyruvic acid, blood",,0.08,0.16,mmol/L
+Red cell distribution width (RDW),,9.0,9.0,%
+Red cell mass,Female,22.7,27.9,mL/kg
+Red cell mass,male,24.9,32.5,mL/kg
+"Renin activity (angiotensin-I radioimmunoassay)
+     Peripheral plasma
+          Normal diet
+               Supine
+               Upright
+          Low sodium diet
+               Supine
+               Upright
+          Diuretics + low sodium diet
+     Renal vein concentration",,0.3,2.5,ng/mL/hr
+"Renin activity (angiotensin-I radioimmunoassay)
+     Peripheral plasma
+          Normal diet
+               Supine
+               Upright
+          Low sodium diet
+               Supine
+               Upright
+          Diuretics + low sodium diet
+     Renal vein concentration",,0.2,3.6,ng/mL/hr
+"Renin activity (angiotensin-I radioimmunoassay)
+     Peripheral plasma
+          Normal diet
+               Supine
+               Upright
+          Low sodium diet
+               Supine
+               Upright
+          Diuretics + low sodium diet
+     Renal vein concentration",,0.9,4.5,ng/mL/hr
+"Renin activity (angiotensin-I radioimmunoassay)
+     Peripheral plasma
+          Normal diet
+               Supine
+               Upright
+          Low sodium diet
+               Supine
+               Upright
+          Diuretics + low sodium diet
+     Renal vein concentration",,4.1,9.1,ng/mL/hr
+"Renin activity (angiotensin-I radioimmunoassay)
+     Peripheral plasma
+          Normal diet
+               Supine
+               Upright
+          Low sodium diet
+               Supine
+               Upright
+          Diuretics + low sodium diet
+     Renal vein concentration",,6.3,13.7,ng/mL/hr
+"Renin activity (angiotensin-I radioimmunoassay)
+     Peripheral plasma
+          Normal diet
+               Supine
+               Upright
+          Low sodium diet
+               Supine
+               Upright
+          Diuretics + low sodium diet
+     Renal vein concentration",,1.5,1.5,
+Reptilase time,,10.0,12.0,seconds
+Reticulocyte count,,0.5,0.5,%
+"Reticulocyte count, absolute",,25.0,25.0,
+Rheumatoid factor (nephelometry),,24.0,24.0,IU/mL
+"Rheumatoid factor, latex test for",,1.0,1.0,
+"Russell viper venom time, dilute",,33.0,44.0,seconds
+Sex hormone-binding globulin,,18.0,144.0,nmol/L
+Sex hormone-binding globulin,male,10.0,57.0,nmol/L
+"Sodium, serum",,136.0,145.0,mEq/L
+"Sodium, urine
+   Random (""spot"")
+24-hour measurement",,24.0,24.0,hr
+"Specific gravity, urine",,1.002,1.03,
+Sperm density,,10.0,150.0,million/mL
+Sweat test for sodium and chloride,,60.0,60.0,mEq/L
+T3 resin uptake,,25.0,25.0,%
+"T-lymphocyte count, CD4",,530.0,1570.0,/μL
+"Testosterone, serum",Female,18.0,54.0,ng/dL
+"Testosterone, serum",male,291.0,1100.0,ng/dL
+"Testosterone, bioavailable, serum",,18.0,69.0,yrs
+"Testosterone, free, serum",Male,70.0,300.0,pg/mL
+Thrombin time,,17.0,23.0,seconds
+"Free""",,25.0,25.0,%
+"Free""",,20.0,20.0,ng/mL
+"Free""",,5.0,5.0,%
+"Free""",,0.5,4.0,μU/mL
+"Free""",,130.0,130.0,%
+"Free""",,12.0,27.0,µg/mL
+"Free""",,5.0,12.0,
+"Free""",,5.0,12.0,μg/dL
+"Free""",,0.8,1.8,ng/dL
+"Free""",,80.0,180.0,ng/dL
+"Free""",,20.0,40.0,ng/dL
+"Free""",,2.3,4.2,pg/mL
+"Tissue transglutaminase antibody, IgA
+[by chemiluminescence method]",,20.0,20.0,AU
+"Tissue transglutaminase antibody, IgG
+[by chemiluminescence method]",,20.0,20.0,AU
+"Tissue transglutaminase antibody, IgA
+[by ELISA]",,4.0,4.0,U/mL
+"Tissue transglutaminase antibody, IgG
+[by ELISA]",,6.0,6.0,U/mL
+"Total proteins, CSF",,15.0,45.0,mg/dL
+Transferrin saturation,,20.0,20.0,%
+"Transferrin, serum",,200.0,400.0,mg/dL
+"Triglycerides, serum (fasting)
+     Optimal
+     Normal
+ Borderline-high
+     High
+     Very high",,100.0,100.0,mg/dL
+"Triglycerides, serum (fasting)
+     Optimal
+     Normal
+ Borderline-high
+     High
+     Very high",,150.0,150.0,mg/dL
+"Triglycerides, serum (fasting)
+     Optimal
+     Normal
+ Borderline-high
+     High
+     Very high",,150.0,199.0,mg/dL
+"Triglycerides, serum (fasting)
+     Optimal
+     Normal
+ Borderline-high
+     High
+     Very high",,200.0,499.0,mg/dL
+"Triglycerides, serum (fasting)
+     Optimal
+     Normal
+ Borderline-high
+     High
+     Very high",,499.0,499.0,mg/dL
+"Troponin I, cardiac, serum",,0.04,0.04,ng/mL
+"Troponin T, cardiac, serum",,0.01,0.01,ng/mL
+"Troponin I, cardiac, high-sensitivity, plasma",,15.0,15.0,ng/L
+"Troponin I, cardiac, high-sensitivity, plasma",,20.0,20.0,ng/L
+"Troponin T, cardiac, high-sensitivity, plasma",,10.0,10.0,ng/L
+"Troponin T, cardiac, high-sensitivity, plasma",,15.0,15.0,ng/L
+"Tryptase, serum",,11.5,11.5,ng/mL
+"Urea clearance, urine
+     Standard
+     Maximal",,40.0,60.0,mL/min
+"Urea clearance, urine
+     Standard
+     Maximal",,60.0,100.0,mL/min
+"Urea nitrogen, blood",,8.0,20.0,mg/dL
+"Urea nitrogen, urine",,12.0,20.0,g/
+"Uric acid, serum",,3.0,7.0,mg/dL
+"Uric acid, urine",,250.0,750.0,mg/
+"Uroporphyrin, urine",,10.0,30.0,μg/
+"Vanillylmandelic acid, urine",,9.0,9.0,mg/
+"Venous oxygen content, mixed",,14.0,16.0,mL/dL
+"Oxygen saturation (SvO2)""",,7.32,7.41,
+"Oxygen saturation (SvO2)""",,42.0,53.0,mm
+"Oxygen saturation (SvO2)""",,35.0,42.0,mm
+"Oxygen saturation (SvO2)""",,24.0,28.0,mEq/L
+"Oxygen saturation (SvO2)""",,65.0,65.0,%
+"Viscosity, serum",,1.4,1.8,cp
+"Vitamin A, serum:
+   Adult
+   Pediatric, age 1–2 yr (retinol)",,32.5,78.0,μg/dL
+"Vitamin A, serum:
+   Adult
+   Pediatric, age 1–2 yr (retinol)",,20.0,43.0,μg/dL
+"Vitamin B12, serum",,200.0,800.0,pg/mL
+"Vitamin D metabolites, serum
+     1,25-Dihydroxyvitamin D
+          (1,25-dihydroxycholecalciferol)
+25-Hydroxyvitamin D
+(25-hydroxycholecalciferol)",,15.0,60.0,pg/mL
+"Vitamin D metabolites, serum
+     1,25-Dihydroxyvitamin D
+          (1,25-dihydroxycholecalciferol)
+25-Hydroxyvitamin D
+(25-hydroxycholecalciferol)",,30.0,60.0,ng/mL
+"Vitamin E, serum:
+   Adult
+ Pediatric, age 1–2 yr (alpha-tocopherol)",,5.5,17.0,mg/L
+"Vitamin E, serum:
+   Adult
+ Pediatric, age 1–2 yr (alpha-tocopherol)",,2.9,16.6,mg/L
+"Volume, blood
+     Plasma
+     Red cell",Female,43.0,43.0,mL/kg
+"Volume, blood
+     Plasma
+     Red cell",male,44.0,44.0,mL/kg
+"Volume, blood
+     Plasma
+     Red cell",Female,20.0,30.0,mL/kg
+"Volume, blood
+     Plasma
+     Red cell",male,25.0,35.0,mL/kg
+"von Willebrand factor activity (ristocetin cofactor
+activity), plasma",,50.0,50.0,%
+"von Willebrand factor antigen, plasma",,50.0,50.0,%
+"Zinc, serum",,75.0,140.0,μg/dL

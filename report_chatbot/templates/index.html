@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sympcare - Medical Assistant</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f8f9fa;
+      color: #333;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 20px;
+    }
+    .container {
+      width: 90%;
+      max-width: 800px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      padding: 20px;
+    }
+    .chat-box {
+      background: #fafafa;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      height: 300px;
+      overflow-y: auto;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    .user-msg {
+      text-align: right;
+      color: #0066cc;
+      margin: 8px 0;
+    }
+    .bot-msg {
+      text-align: left;
+      color: #111;
+      margin: 8px 0;
+    }
+    button {
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      padding: 8px 14px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    input[type="text"] {
+      width: 80%;
+      padding: 8px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🩺 Sympcare - Medical Report Analyzer & Chat</h1>
+
+    <!-- PDF Upload Section -->
+    <section class="upload-section">
+      <h3>Upload Medical Report (PDF)</h3>
+      <form id="uploadForm">
+        <input type="file" name="pdf" id="pdf" accept="application/pdf" required />
+        <button type="submit">Analyze Report</button>
+      </form>
+      <div id="loading" style="display:none;">⏳ Analyzing report...</div>
+      <div id="analysis" style="white-space:pre-line;"></div>
+    </section>
+
+    <hr>
+
+    <!-- Chat Section -->
+    <section class="chat-section">
+      <h3>💬 Chat with Sympcare</h3>
+      <div id="chatBox" class="chat-box"></div>
+      <div class="chat-input">
+        <input type="text" id="userInput" placeholder="Type your question..." />
+        <button id="sendBtn">Send</button>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const chatBox = document.getElementById('chatBox');
+    const userInput = document.getElementById('userInput');
+    const sendBtn = document.getElementById('sendBtn');
+    const form = document.getElementById('uploadForm');
+    const analysisDiv = document.getElementById('analysis');
+    const loading = document.getElementById('loading');
+
+    // === STREAM UTILITY FUNCTION ===
+    async function streamResponse(url, options, onChunk) {
+      const response = await fetch(url, options);
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder();
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        const chunk = decoder.decode(value);
+        onChunk(chunk);
+      }
+    }
+
+    // === Handle PDF Upload (Streaming) ===
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      loading.style.display = 'block';
+      analysisDiv.innerHTML = '';
+
+      const formData = new FormData(form);
+
+      await streamResponse('/analyze', { method: 'POST', body: formData }, (chunk) => {
+        loading.style.display = 'none';
+        analysisDiv.innerHTML += chunk;
+      });
+    });
+
+    async function sendMessage() {
+  const message = userInput.value.trim();
+  if (!message) return;
+
+  // Display user message
+  const userMsg = document.createElement('div');
+  userMsg.classList.add('user-msg');
+  userMsg.innerHTML = `<b>You:</b> ${message}`;
+  chatBox.appendChild(userMsg);
+  chatBox.scrollTop = chatBox.scrollHeight;
+
+  userInput.value = '';
+
+  // Create new bot message block for this question
+  const botMsg = document.createElement('div');
+  botMsg.classList.add('bot-msg');
+  botMsg.innerHTML = `<b>Sympcare:</b> <span class="bot-text"></span>`;
+  chatBox.appendChild(botMsg);
+
+  const botText = botMsg.querySelector('.bot-text');
+
+  // --- STREAMING RESPONSE ---
+  const res = await fetch('/chat', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ message })
+  });
+
+  // Read response as stream
+  const reader = res.body.getReader();
+  const decoder = new TextDecoder();
+  let partialText = '';
+
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+
+    partialText += decoder.decode(value, { stream: true });
+    botText.innerHTML = partialText;  // update only this message block
+    chatBox.scrollTop = chatBox.scrollHeight;
+  }
+}
+
+
+    sendBtn.addEventListener('click', sendMessage);
+    userInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') sendMessage();
+    });
+  </script>
+</body>
+</html>
