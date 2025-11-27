@@ -3,18 +3,18 @@ import json, re
 import pandas as pd
 from flask import Flask, request, jsonify
 
-# ✅ Load cleaned reference range CSV
+
 ranges_df = pd.read_csv("report_chatbot\data\lab_range.csv")
 
-# Save last analyzed report here
+
 last_report_data = None
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",  # ⚠️ Replace after regenerating
+    api_key="YOUR_API_KEY",  
 )
 
-# ✅ Extract patient details from report
+ # Extract patient details from report
 def extract_patient_details(text):
     name = re.search(r"(Name|Patient Name)[:\- ]+([A-Za-z ]+)", text, re.IGNORECASE)
     age = re.search(r"(Age)[:\- ]+(\d+)", text, re.IGNORECASE)
@@ -37,7 +37,7 @@ def lookup_range(test_name):
     r = row.iloc[0]
     return float(r["Normal_Min"]), float(r["Normal_Max"])
 
-# ✅ Extract values from report text
+#  Extract values from report text
 def extract_parameters(text):
     parameters = {}
     lines = text.split("\n")
@@ -107,7 +107,7 @@ def analyze_report_text(extracted_text):
     
     response_text = completion.choices[0].message.content.strip()
 
-    # ✅ Parse response JSON
+    #  Parse response JSON
     try:
         result = json.loads(response_text)
     except:
@@ -152,4 +152,5 @@ def chat_with_report_bot(user_input):
 
     chat_history.append({"role": "assistant", "content": reply})
     return reply
+
 
